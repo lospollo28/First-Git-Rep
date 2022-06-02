@@ -1,6 +1,14 @@
 #include<bits/stdc++.h>
 using namespace std;
+#define ll long long int
 int main()
 {
-    cout<<"Late night learnings"<<endl;
+    ll t;
+    cin>>t;
+     while(t--)
+     {
+          ll n;
+          cin>>n;
+          
+      }
 }
